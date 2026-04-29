@@ -3,6 +3,8 @@
 
 # Palette for Hair, Eyes, Skin
 
+Small desktop utility to generate harmonious color palettes for hair, eyes, and skin from three base HEX colors.
+
 Description
 - Simple Tkinter app that generates three columns of color swatches derived from user-provided base HEX colors for hair, eyes, and skin.
 - Exports a PNG image containing the palettes and displays a resizable preview.

@@ -1,5 +1,4 @@
 ![UI](OutfitPalette.png)
-![Output](hair_eyes_skin_palette.png)
 
 # Palette for Hair, Eyes, Skin
 
@@ -33,3 +32,5 @@ Dependencies
 - Python 3.8+
 - Pillow
 - tkinter (usually included with Python)
+
+![Output](hair_eyes_skin_palette.png)

@@ -1,7 +1,6 @@
 ![UI](OutfitPalette.png)
 
-# Palette for Hair, Eyes, Skin
-Generates a personalized color palette based on hair, eye, and skin colors (from three base HEX values).
+# Generates a personalized color palette based on hair, eye, and skin colors (from three base HEX values).
 
 Description
 - Simple Tkinter app that generates three columns of color swatches derived from user-provided base HEX colors for hair, eyes, and skin.
